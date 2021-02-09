@@ -1,0 +1,1 @@
+This is an app that programmatically generates Microsoft Excel spreadsheets using Excel JavaScript API.
